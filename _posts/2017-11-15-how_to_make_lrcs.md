@@ -5,6 +5,12 @@ date:   2017-11-15 20:02:51 +0800
 categories: help
 ---
 
+*   [设置时间戳](#set_timestamp)
+*   [调整时间戳](#adjust_timestamp)
+*   [分割字幕](#split_lrcs)
+*   [合并字幕](#combine_lrcs)
+
+
 <h2 id="set_timestamp">设置时间戳</h2>
 
 播放过程中，只需**点按句子**即可将当前播放的时间设置为句子的时间戳。
