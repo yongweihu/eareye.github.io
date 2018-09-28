@@ -1,6 +1,5 @@
 ---
 title: 关于听阅会员与客户隐私
-layout: post
 tags:
 ---
 

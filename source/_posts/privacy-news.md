@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 关于听闻会员与客户隐私
 tags:
 ---

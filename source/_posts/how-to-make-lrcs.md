@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "制作字幕"
+date: 2017/11/15 20:02:51 +0800
+permalink: help/2017/11/15/how_to_make_lrcs
 tags:
 ---
 <h3 id="split_lrcs">分割字幕</h3>
