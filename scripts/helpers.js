@@ -51,7 +51,6 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
   var self = this;
   var prefix = 'sidebar.' + type + '.';
 
-  result += '<ul aria-hidden="false" role="tree">'
   _.each(sidebar, function(menu, title) {
     result += '<strong class="' + className + '-title">' + self.__(prefix + title) + '</strong>';
 
@@ -62,7 +61,6 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
       result += '<a href="' + link + '" class="' + itemClass + '">' + self.__(prefix + text) + '</a>';
     });
   });
-  result += '</ul>'
 
   return result;
 });
