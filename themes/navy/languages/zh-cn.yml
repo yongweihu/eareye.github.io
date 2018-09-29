@@ -30,9 +30,10 @@ sidebar:
     reading_audio: 有声书籍
     reading_purchase: 购买书籍
     word: 单词
-    word_switch_phonetic: 切换单词发音
+    word_multiple_meaning: 多义词
     learning: 学习
-    learning_set_image: 设置学习图片
+    learning_set_image: 设置图片
+    learning_set_audio: 设置音频
     review: 复习
     review_set_algorithm: 设置复习算法
     lrc: 制作字幕

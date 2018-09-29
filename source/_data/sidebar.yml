@@ -10,11 +10,12 @@ help:
     reading_audio:
     reading_purchase:
   word:
-    word_lookup: 
-    word_switch_phonetic:
+    word_lookup: word-lookup.html
+    word_multiple_meaning:
   learning:
     learning_add:
     learning_set_image:
+    learning_set_audio:
   review:
     learning_review:
     review_set_algorithm:
@@ -24,12 +25,12 @@ help:
     lrc_split: lrc-split.html
     lrc_combine: lrc-combine.html
   subscription:
-    subscription_subscribe:
-    subscription_cancel:
+    subscription_subscribe: 
+    subscription_cancel: subscription-cancel.html
     subscription_share_between_devices:
   other_app:
-    eareye_pro:
     eareye_news:
+    eareye_pro:
     eareye_reader:
   miscellaneous:
     privacy: privacy.html
