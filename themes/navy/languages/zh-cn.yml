@@ -1,5 +1,5 @@
 menu:
-  docs: 听阅使用帮助
+  help: 听阅使用帮助
   api: API
   news: 新闻
   plugins: 插件
@@ -18,7 +18,7 @@ page:
   last_updated: 上次更新：%s
 
 sidebar:
-  docs:
+  help:
     getting_started: 开始使用
     overview: 概述
     word_lookup: 查词

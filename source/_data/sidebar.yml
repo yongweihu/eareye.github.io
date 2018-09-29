@@ -1,4 +1,4 @@
-docs:
+help:
   getting_started:
     overview: index.html
     word_lookup: writing.html
