@@ -1,26 +1,35 @@
 docs:
   getting_started:
     overview: index.html
-    setup: setup.html
-    configuration: configuration.html
-    commands: commands.html
-    migration: migration.html
-  basic_usage:
-    writing: writing.html
-    front_matter: front-matter.html
-    tag_plugins: tag-plugins.html
-    asset_folders: asset-folders.html
-    data_files: data-files.html
-    server: server.html
-    generating: generating.html
-    deployment: deployment.html
-  customization:
-    permalinks: permalinks.html
-    themes: themes.html
-    templates: templates.html
-    variables: variables.html
-    helpers: helpers.html
-    internationalization: internationalization.html
-    plugins: plugins.html
+    word_lookup: writing.html
+    learning_add: front-matter.html
+    learning_review: tag-plugins.html
+  reading:
+    reading_action:
+    reading_translation:
+    reading_audio:
+    reading_purchase:
+  word:
+    word_lookup: 
+    word_switch_phonetic:
+  learning:
+    learning_add:
+    learning_set_image:
+  review:
+    learning_review:
+    review_set_algorithm:
+  lrc:
+    lrc_set_timestamp: lrc-set-timestamp.html
+    lrc_adjust_timestamp: lrc-adjust-timestamp.html
+    lrc_split: lrc-split.html
+    lrc_combine: lrc-combine.html
+  subscription:
+    subscription_subscribe:
+    subscription_cancel:
+    subscription_share_between_devices:
+  other_app:
+    eareye_pro:
+    eareye_news:
+    eareye_reader:
   miscellaneous:
     privacy: privacy.html

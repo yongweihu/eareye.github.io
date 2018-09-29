@@ -1,21 +1,22 @@
 #sidebar
   width: sidebar-width
   float: left
-  padding-bottom: 40px
-  opacity: 0.8
+  padding-left: 0
   margin-left: sidebar-width * -1
   display: none
+  font-size: .82rem
   @media mq-normal
     display: block
 
 .sidebar-title
-  margin-top: 40px
-  padding: 10px 0
+  padding: .95rem 0rem
   font-family: font-title
   font-weight: bold
   color: color-link
-  display: inline-block
-  border-top: 1px solid color-border
+  display: block
+  border: 0;
+  border-bottom: 1px solid #f2f2f2
+  border-right: 1px solid #f2f2f2
   line-height: 1
 
 .sidebar-link
@@ -23,13 +24,16 @@
   display: block
   color: color-default
   text-decoration: none
-  padding: 7px 0
+  padding: .95rem 0.0rem
+  margin-left: 1.2rem
   line-height: 1
   position: relative
-  width: 100%
   text-overflow: ellipsis
   overflow: hidden
   white-space: nowrap
+  border: 0;
+  border-bottom: 1px solid #f2f2f2
+  border-right: 1px solid #f2f2f2
   &.current
     color: color-link
   &:hover

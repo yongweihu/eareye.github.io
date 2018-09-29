@@ -26,10 +26,10 @@ html, body
     // overflow: hidden
 
 body
-  background: color-navy
+  background: #fafafa
   font-size: font-size
   font-family: font-sans
-  color: color-default
+  color: #4b4b4b
   text-rendering: optimizeLegibility
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
@@ -47,10 +47,13 @@ body
     padding: 0 gutter-width
 
 #content-wrap
-  background: #fff
-  border-top: 1px solid darken(color-navy, 5%)
-  border-bottom: 1px solid darken(color-navy, 5%)
-  margin: -1px 0
+  width: 100%
+  height: calc(100% - 44px)
+  position: relative;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1156px;
+  min-width: 320px;
   
 .video-container
   text-align: center

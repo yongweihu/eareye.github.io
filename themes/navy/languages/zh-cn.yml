@@ -21,29 +21,32 @@ sidebar:
   docs:
     getting_started: 开始使用
     overview: 概述
-    setup: 建站
-    configuration: 配置
-    commands: 命令
-    migration: 迁移
-    basic_usage: 基本操作
-    writing: 写作
-    front_matter: Front-matter
-    tag_plugins: 标签插件
-    asset_folders: 资源文件夹
-    data_files: 数据文件夹
-    server: 服务器
-    generating: 生成器
-    deployment: 部署
-    customization: 自定义
-    permalinks: 永久链接
-    themes: 主题
-    structure: 结构
-    templates: 模版
-    variables: 变量
-    helpers: 辅助函数
-    internationalization: 国际化 (i18n)
-    plugins: 插件
+    word_lookup: 查词
+    learning_add: 添加学习
+    learning_review: 复习学习
+    reading: 阅读
+    reading_action: 阅读操作
+    reading_translation: 英汉对照书籍
+    reading_audio: 有声书籍
+    reading_purchase: 购买书籍
+    word: 单词
+    word_switch_phonetic: 切换单词发音
+    learning: 学习
+    learning_set_image: 设置学习图片
+    review: 复习
+    review_set_algorithm: 设置复习算法
+    lrc: 制作字幕
+    lrc_set_timestamp: 设置时间戳
+    lrc_adjust_timestamp: 调整时间戳
+    lrc_split: 分割字幕
+    lrc_combine: 合并字幕
+    subscription: 会员
+    subscription_subscribe: 开通会员
+    subscription_cancel: 取消会员
+    subscription_share_between_devices: 设备间共享会员
+    other_app: 其他应用
+    eareye_pro: 听阅畅听版
+    eareye_news: 听闻
+    eareye_reader: 听阅阅读器
     miscellaneous: 其他
-    troubleshooting: 问题解答
-    contributing: 贡献
     privacy: 关于会员与客户隐私
