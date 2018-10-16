@@ -33,5 +33,6 @@ help:
     eareye_pro:
     eareye_reader:
   miscellaneous:
+    copyright: copyright.html
     privacy: privacy.html
     privacy_news: privacy-news.html
