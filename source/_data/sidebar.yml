@@ -25,6 +25,8 @@ help:
     lrc_split: lrc-split.html
     lrc_combine: lrc-combine.html
   subscription:
+    membership_book: membership-book.html
+    membership_news: membership-news.html
     subscription_subscribe: 
     subscription_cancel: subscription-cancel.html
     subscription_share_between_devices:

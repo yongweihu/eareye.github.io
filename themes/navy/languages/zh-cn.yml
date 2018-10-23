@@ -42,6 +42,8 @@ sidebar:
     lrc_split: 分割字幕
     lrc_combine: 合并字幕
     subscription: 会员
+    membership_book: 听阅会员权益
+    membership_news: 听闻会员权益
     subscription_subscribe: 开通会员
     subscription_cancel: 取消会员
     subscription_share_between_devices: 设备间共享会员
