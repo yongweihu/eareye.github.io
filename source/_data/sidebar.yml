@@ -9,6 +9,7 @@ help:
     reading_translation:
     reading_audio:
     reading_purchase:
+    reading_import_books: book-imports-others.html
   word:
     word_lookup: word-lookup.html
     word_multiple_meaning:
