@@ -1,3 +1,4 @@
+<!--
 <header id="header" class="wrapper">
   <div id="header-inner" class="inner">
     <h1 id="logo-wrap">
@@ -13,3 +14,4 @@
     </a>
   </div>
 </header>
+-->

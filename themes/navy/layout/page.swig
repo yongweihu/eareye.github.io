@@ -11,9 +11,11 @@
               <div class="article-content" itemprop="articleBody">
                 {{ page_anchor(page.content) }}
               </div>
+              <!--
               <footer class="article-footer">
                 {{ page_nav() }}
               </footer>
+              -->
               <div id="footer-copyright">
       &copy; {{ moment(Date.now()).year() }} {{ config.author }} 保留一切权利。<br>
     </div>
