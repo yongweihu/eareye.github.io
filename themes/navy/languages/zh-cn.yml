@@ -1,5 +1,5 @@
 menu:
-  help: 听阅使用帮助
+  help: 使用帮助
   api: API
   news: 新闻
   plugins: 插件
@@ -53,6 +53,7 @@ sidebar:
     eareye_news: 听闻
     eareye_reader: 听阅阅读器
     miscellaneous: 其他
+    font: 导入字体
     copyright: 内容合作及知识产权保护声明
     privacy: 关于听阅会员与客户隐私
     privacy_news: 关于听闻会员与客户隐私

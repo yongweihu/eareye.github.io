@@ -1,41 +1,14 @@
 help:
   getting_started:
     overview: index.html
-    word_lookup: writing.html
-    learning_add: front-matter.html
-    learning_review: tag-plugins.html
-  reading:
-    reading_action:
-    reading_translation:
-    reading_audio:
-    reading_purchase:
-    reading_import_books: book-imports-others.html
-  word:
     word_lookup: word-lookup.html
-    word_multiple_meaning:
-  learning:
-    learning_add:
-    learning_set_image:
-    learning_set_audio:
-  review:
-    learning_review:
-    review_set_algorithm:
-  lrc:
-    lrc_set_timestamp: lrc-set-timestamp.html
-    lrc_adjust_timestamp: lrc-adjust-timestamp.html
-    lrc_split: lrc-split.html
-    lrc_combine: lrc-combine.html
   subscription:
     membership_book: membership-book.html
     membership_news: membership-news.html
-    subscription_subscribe: 
     subscription_cancel: subscription-cancel.html
-    subscription_share_between_devices:
-  other_app:
-    eareye_news:
-    eareye_pro:
-    eareye_reader:
   miscellaneous:
+    reading_import_books: book-imports-others.html
+    font: font-imports.html
     copyright: copyright.html
     privacy: privacy.html
     privacy_news: privacy-news.html

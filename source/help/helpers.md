@@ -632,12 +632,6 @@ title: 辅助函数（Helpers）
 `image` | 页面图片 (`og:image`) | 内容中的图片
 `site_name` | 网站名称 (`og:site_name`) | `config.title`
 `description` | 页面描述 (`og:desription`) | 内容摘要或前 200 字
-`twitter_card` | Twitter 卡片类型 (`twitter:card`) | summary
-`twitter_id` | Twitter ID (`twitter:creator`) |
-`twitter_site` | Twitter 网站 (`twitter:site`) |
-`google_plus` | Google+ 个人资料链接 |
-`fb_admins` | Facebook 管理者 ID |
-`fb_app_id` | Facebook 应用程序 ID |
 
 ### toc
 

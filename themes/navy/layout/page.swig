@@ -11,28 +11,13 @@
               <div class="article-content" itemprop="articleBody">
                 {{ page_anchor(page.content) }}
               </div>
-              <!--
-              <footer class="article-footer">
-                {{ page_nav() }}
-              </footer>
-              -->
               <div id="footer-copyright">
       &copy; {{ moment(Date.now()).year() }} {{ config.author }} 保留一切权利。<br>
     </div>
             </div>
           </div>
-          <!-- 
-<aside id="article-toc" role="navigation">
-            <div id="article-toc-inner">
-              <strong class="sidebar-title">{{ __('page.contents') }}</strong>
-              {{ toc(page.content, {list_number: false}) }}
-              <a href="#" id="article-toc-top">{{ __('page.back_to_top') }}</a>
-            </div>
-          </aside>
- -->
         </div>
       </article>
-      {{ partial('partial/sidebar') }}
     </div>
   </div>
 </div>
