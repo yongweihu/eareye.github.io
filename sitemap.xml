@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eareye.coding.me/help/make-lrc-book.html</loc>
+    
+    <lastmod>2019-12-05T06:42:12.897Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eareye.coding.me/help/transfer-proship.html</loc>
     
     <lastmod>2019-11-25T11:42:54.858Z</lastmod>
@@ -23,14 +30,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/variables.html</loc>
+    <loc>https://eareye.coding.me/help/user_make_lrc.html</loc>
     
     <lastmod>2019-11-25T11:30:03.866Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/user_make_lrc.html</loc>
+    <loc>https://eareye.coding.me/help/variables.html</loc>
     
     <lastmod>2019-11-25T11:30:03.866Z</lastmod>
     
@@ -58,13 +65,6 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/server.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.865Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://eareye.coding.me/help/setup.html</loc>
     
     <lastmod>2019-11-25T11:30:03.865Z</lastmod>
@@ -72,14 +72,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/subscription-cancel.html</loc>
+    <loc>https://eareye.coding.me/help/server.html</loc>
     
     <lastmod>2019-11-25T11:30:03.865Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/tag-plugins.html</loc>
+    <loc>https://eareye.coding.me/help/subscription-cancel.html</loc>
     
     <lastmod>2019-11-25T11:30:03.865Z</lastmod>
     
@@ -94,6 +94,13 @@
   
   <url>
     <loc>https://eareye.coding.me/help/themes.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.865Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/tag-plugins.html</loc>
     
     <lastmod>2019-11-25T11:30:03.865Z</lastmod>
     
@@ -170,13 +177,6 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/gen-audio-books.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.863Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://eareye.coding.me/help/generating.html</loc>
     
     <lastmod>2019-11-25T11:30:03.863Z</lastmod>
@@ -184,7 +184,7 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/helpers.html</loc>
+    <loc>https://eareye.coding.me/help/gen-audio-books.html</loc>
     
     <lastmod>2019-11-25T11:30:03.863Z</lastmod>
     
@@ -198,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/internationalization.html</loc>
+    <loc>https://eareye.coding.me/help/helpers.html</loc>
     
     <lastmod>2019-11-25T11:30:03.863Z</lastmod>
     
@@ -206,6 +206,13 @@
   
   <url>
     <loc>https://eareye.coding.me/help/lrc-adjust-timestamp.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.863Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/internationalization.html</loc>
     
     <lastmod>2019-11-25T11:30:03.863Z</lastmod>
     
@@ -226,13 +233,6 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/front-matter.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.862Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://eareye.coding.me/help/font-imports.html</loc>
     
     <lastmod>2019-11-25T11:30:03.862Z</lastmod>
@@ -240,21 +240,14 @@
   </url>
   
   <url>
+    <loc>https://eareye.coding.me/help/front-matter.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.862Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eareye.coding.me/help/commands.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.861Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://eareye.coding.me/help/configuration.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.861Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://eareye.coding.me/help/contributing.html</loc>
     
     <lastmod>2019-11-25T11:30:03.861Z</lastmod>
     
@@ -275,6 +268,20 @@
   </url>
   
   <url>
+    <loc>https://eareye.coding.me/help/configuration.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.861Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/contributing.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.861Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eareye.coding.me/about/index.html</loc>
     
     <lastmod>2019-11-25T11:30:03.860Z</lastmod>
@@ -282,14 +289,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/asset-folders.html</loc>
+    <loc>https://eareye.coding.me/help/book-imports-others.html</loc>
     
     <lastmod>2019-11-25T11:30:03.860Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/book-imports-others.html</loc>
+    <loc>https://eareye.coding.me/help/asset-folders.html</loc>
     
     <lastmod>2019-11-25T11:30:03.860Z</lastmod>
     
