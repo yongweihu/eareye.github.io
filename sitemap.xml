@@ -4,7 +4,28 @@
   <url>
     <loc>https://eareye.coding.me/help/make-lrc-book.html</loc>
     
-    <lastmod>2019-12-05T06:56:58.672Z</lastmod>
+    <lastmod>2020-05-11T06:07:58.877Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/gen-audio-books.html</loc>
+    
+    <lastmod>2020-05-11T06:07:58.875Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/user_make_lrc.html</loc>
+    
+    <lastmod>2020-05-11T06:07:58.875Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/dialyze-book.html</loc>
+    
+    <lastmod>2020-05-11T05:59:40.730Z</lastmod>
     
   </url>
   
@@ -30,21 +51,7 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/user_make_lrc.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.866Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://eareye.coding.me/help/variables.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.866Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://eareye.coding.me/help/word-lookup.html</loc>
     
     <lastmod>2019-11-25T11:30:03.866Z</lastmod>
     
@@ -58,14 +65,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/privacy.html</loc>
+    <loc>https://eareye.coding.me/help/word-lookup.html</loc>
     
-    <lastmod>2019-11-25T11:30:03.865Z</lastmod>
+    <lastmod>2019-11-25T11:30:03.866Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/server.html</loc>
+    <loc>https://eareye.coding.me/help/privacy.html</loc>
     
     <lastmod>2019-11-25T11:30:03.865Z</lastmod>
     
@@ -79,7 +86,21 @@
   </url>
   
   <url>
+    <loc>https://eareye.coding.me/help/server.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.865Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eareye.coding.me/help/subscription-cancel.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.865Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/tag-plugins.html</loc>
     
     <lastmod>2019-11-25T11:30:03.865Z</lastmod>
     
@@ -107,21 +128,7 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/tag-plugins.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.865Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://eareye.coding.me/help/lrc-set-timestamp.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.864Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://eareye.coding.me/help/membership-book.html</loc>
+    <loc>https://eareye.coding.me/help/lrc-combine.html</loc>
     
     <lastmod>2019-11-25T11:30:03.864Z</lastmod>
     
@@ -135,6 +142,13 @@
   </url>
   
   <url>
+    <loc>https://eareye.coding.me/help/membership-book.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.864Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eareye.coding.me/help/membership-news.html</loc>
     
     <lastmod>2019-11-25T11:30:03.864Z</lastmod>
@@ -142,14 +156,7 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/lrc-combine.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.864Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://eareye.coding.me/help/permalinks.html</loc>
+    <loc>https://eareye.coding.me/help/lrc-set-timestamp.html</loc>
     
     <lastmod>2019-11-25T11:30:03.864Z</lastmod>
     
@@ -163,13 +170,6 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/privacy-news.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.864Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://eareye.coding.me/help/plugins.html</loc>
     
     <lastmod>2019-11-25T11:30:03.864Z</lastmod>
@@ -177,14 +177,21 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/generating.html</loc>
+    <loc>https://eareye.coding.me/help/permalinks.html</loc>
     
-    <lastmod>2019-11-25T11:30:03.863Z</lastmod>
+    <lastmod>2019-11-25T11:30:03.864Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/gen-audio-books.html</loc>
+    <loc>https://eareye.coding.me/help/privacy-news.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.864Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/generating.html</loc>
     
     <lastmod>2019-11-25T11:30:03.863Z</lastmod>
     
@@ -219,13 +226,6 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/dict-imports.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.862Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://eareye.coding.me/help/deployment.html</loc>
     
     <lastmod>2019-11-25T11:30:03.862Z</lastmod>
@@ -233,7 +233,7 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/front-matter.html</loc>
+    <loc>https://eareye.coding.me/help/dict-imports.html</loc>
     
     <lastmod>2019-11-25T11:30:03.862Z</lastmod>
     
@@ -241,6 +241,13 @@
   
   <url>
     <loc>https://eareye.coding.me/help/font-imports.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.862Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/front-matter.html</loc>
     
     <lastmod>2019-11-25T11:30:03.862Z</lastmod>
     
@@ -261,14 +268,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/contributing.html</loc>
+    <loc>https://eareye.coding.me/help/copyright.html</loc>
     
     <lastmod>2019-11-25T11:30:03.861Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/copyright.html</loc>
+    <loc>https://eareye.coding.me/help/contributing.html</loc>
     
     <lastmod>2019-11-25T11:30:03.861Z</lastmod>
     
@@ -324,14 +331,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/news/2014/06/14/hexo-2-7-released/</loc>
+    <loc>https://eareye.coding.me/news/2014/07/13/hexo-2-8-released/</loc>
     
     <lastmod>2019-11-25T11:30:03.852Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/news/2014/07/13/hexo-2-8-released/</loc>
+    <loc>https://eareye.coding.me/news/2014/06/14/hexo-2-7-released/</loc>
     
     <lastmod>2019-11-25T11:30:03.852Z</lastmod>
     
