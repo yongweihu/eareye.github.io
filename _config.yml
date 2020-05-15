@@ -5,7 +5,7 @@ author: 听阅
 language: zh-cn
 timezone: UTC
 
-url: https://eareye.coding.me
+url: https://www.eareyereading.com
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -17,7 +17,7 @@ per_page: 0
 theme: navy
 deploy:
   type: git
-  repo: https://git.coding.net/eareye/eareye.coding.me.git
+  repo: https://github.com/yongweihu/eareye.github.io.git
   branch: coding-pages
 
 highlight:
