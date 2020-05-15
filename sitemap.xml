@@ -107,6 +107,13 @@
   </url>
   
   <url>
+    <loc>https://eareye.coding.me/help/templates.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.865Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eareye.coding.me/help/themes.html</loc>
     
     <lastmod>2019-11-25T11:30:03.865Z</lastmod>
@@ -121,9 +128,9 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/templates.html</loc>
+    <loc>https://eareye.coding.me/help/lrc-combine.html</loc>
     
-    <lastmod>2019-11-25T11:30:03.865Z</lastmod>
+    <lastmod>2019-11-25T11:30:03.864Z</lastmod>
     
   </url>
   
@@ -136,13 +143,6 @@
   
   <url>
     <loc>https://eareye.coding.me/help/lrc-split.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.864Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://eareye.coding.me/help/lrc-combine.html</loc>
     
     <lastmod>2019-11-25T11:30:03.864Z</lastmod>
     
@@ -191,14 +191,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/helpers.html</loc>
+    <loc>https://eareye.coding.me/help/generating.html</loc>
     
     <lastmod>2019-11-25T11:30:03.863Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/generating.html</loc>
+    <loc>https://eareye.coding.me/help/helpers.html</loc>
     
     <lastmod>2019-11-25T11:30:03.863Z</lastmod>
     
@@ -226,13 +226,6 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/dict-imports.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.862Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://eareye.coding.me/help/deployment.html</loc>
     
     <lastmod>2019-11-25T11:30:03.862Z</lastmod>
@@ -240,7 +233,7 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/front-matter.html</loc>
+    <loc>https://eareye.coding.me/help/dict-imports.html</loc>
     
     <lastmod>2019-11-25T11:30:03.862Z</lastmod>
     
@@ -248,6 +241,13 @@
   
   <url>
     <loc>https://eareye.coding.me/help/font-imports.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.862Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/front-matter.html</loc>
     
     <lastmod>2019-11-25T11:30:03.862Z</lastmod>
     
@@ -275,14 +275,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/data-files.html</loc>
+    <loc>https://eareye.coding.me/help/copyright.html</loc>
     
     <lastmod>2019-11-25T11:30:03.861Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/copyright.html</loc>
+    <loc>https://eareye.coding.me/help/data-files.html</loc>
     
     <lastmod>2019-11-25T11:30:03.861Z</lastmod>
     
@@ -331,14 +331,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/news/2014/06/14/hexo-2-7-released/</loc>
+    <loc>https://eareye.coding.me/news/2014/07/13/hexo-2-8-released/</loc>
     
     <lastmod>2019-11-25T11:30:03.852Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/news/2014/07/13/hexo-2-8-released/</loc>
+    <loc>https://eareye.coding.me/news/2014/06/14/hexo-2-7-released/</loc>
     
     <lastmod>2019-11-25T11:30:03.852Z</lastmod>
     
