@@ -107,13 +107,6 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/templates.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.865Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://eareye.coding.me/help/themes.html</loc>
     
     <lastmod>2019-11-25T11:30:03.865Z</lastmod>
@@ -128,9 +121,9 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/lrc-combine.html</loc>
+    <loc>https://eareye.coding.me/help/templates.html</loc>
     
-    <lastmod>2019-11-25T11:30:03.864Z</lastmod>
+    <lastmod>2019-11-25T11:30:03.865Z</lastmod>
     
   </url>
   
@@ -143,6 +136,13 @@
   
   <url>
     <loc>https://eareye.coding.me/help/lrc-split.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.864Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/lrc-combine.html</loc>
     
     <lastmod>2019-11-25T11:30:03.864Z</lastmod>
     
@@ -191,14 +191,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/generating.html</loc>
+    <loc>https://eareye.coding.me/help/helpers.html</loc>
     
     <lastmod>2019-11-25T11:30:03.863Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/helpers.html</loc>
+    <loc>https://eareye.coding.me/help/generating.html</loc>
     
     <lastmod>2019-11-25T11:30:03.863Z</lastmod>
     
@@ -226,20 +226,6 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/deployment.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.862Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://eareye.coding.me/help/font-imports.html</loc>
-    
-    <lastmod>2019-11-25T11:30:03.862Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://eareye.coding.me/help/dict-imports.html</loc>
     
     <lastmod>2019-11-25T11:30:03.862Z</lastmod>
@@ -247,7 +233,21 @@
   </url>
   
   <url>
+    <loc>https://eareye.coding.me/help/deployment.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.862Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eareye.coding.me/help/front-matter.html</loc>
+    
+    <lastmod>2019-11-25T11:30:03.862Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://eareye.coding.me/help/font-imports.html</loc>
     
     <lastmod>2019-11-25T11:30:03.862Z</lastmod>
     
@@ -275,14 +275,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/copyright.html</loc>
+    <loc>https://eareye.coding.me/help/data-files.html</loc>
     
     <lastmod>2019-11-25T11:30:03.861Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/data-files.html</loc>
+    <loc>https://eareye.coding.me/help/copyright.html</loc>
     
     <lastmod>2019-11-25T11:30:03.861Z</lastmod>
     
@@ -296,14 +296,14 @@
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/book-imports-others.html</loc>
+    <loc>https://eareye.coding.me/help/asset-folders.html</loc>
     
     <lastmod>2019-11-25T11:30:03.860Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://eareye.coding.me/help/asset-folders.html</loc>
+    <loc>https://eareye.coding.me/help/book-imports-others.html</loc>
     
     <lastmod>2019-11-25T11:30:03.860Z</lastmod>
     
